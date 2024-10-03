@@ -16,7 +16,6 @@
           <archive>
             <manifest>
               <mainClass>uz.akbar.Main</mainClass>
-              <!-- Replace with your actual Main class -->
             </manifest>
           </archive>
           <descriptorRefs>
